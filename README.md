@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=KAiSH%20Web%20Solution&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=KAiSH%20Web%20Solution%20%26%20KAiSH%20Computer%20Institute&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 🚀 KAiSH Web Solution
+# 🚀 KAiSH Web Solution & KAiSH Computer Institute
 
-### 🌐 Website Development • SEO • AI Solutions • Digital Marketing
+### 🌐 Digital Innovation • AI Education • Web Development • Career Growth
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+KAiSH+Web+Solution;Website+Development+%26+SEO+Experts;Learn+AI+%26+Data+Science;Grow+Your+Business+Digitally" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+KAiSH+Digital+Ecosystem;Website+Development+%26+SEO+Experts;Learn+AI+%26+Data+Science;Build+Real+World+Projects;Empowering+Students+%26+Businesses" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/SEO-Optimization-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-Solutions-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital-Marketing-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Location-Lucknow-important?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-Education-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/SEO-Marketing-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data-Science-red?style=for-the-badge">
 
 </div>
 
@@ -22,51 +21,12 @@
 
 # 🌟 About Us
 
-Welcome to the official GitHub profile of **KAiSH Web Solution**.
+Welcome to the official GitHub profile of **KAiSH Web Solution & KAiSH Computer Institute**.
 
-We specialize in:
-
-✅ Website Development
-✅ SEO Optimization
-✅ AI & Automation Solutions
-✅ Digital Marketing
-✅ UI/UX Designing
-✅ Industry-Oriented IT Training
-
----
-
-# 🚀 Services We Offer
-
-## 💻 Web Development
-
-* Business Websites
-* Landing Pages
-* Portfolio Websites
-* Dynamic Websites
-* E-Commerce Solutions
-
-## 📈 SEO & Marketing
-
-* Local SEO
-* Technical SEO
-* Google Ranking
-* Social Media Marketing
-* AI Digital Marketing
-
-## 🤖 AI Solutions
-
-* Generative AI
-* AI Automation
-* AI Chatbots
-* AI Content Creation
-
-## 🎓 IT Training
-
-* Python
-* Data Science
-* AI & ML
-* Web Development
-* Power BI & Excel
+💻 Website Development
+📈 SEO & Digital Marketing
+🤖 AI Solutions
+🎓 Industry-Oriented IT Training
 
 ---
 
@@ -80,15 +40,33 @@ We specialize in:
 
 ---
 
-# 📂 Repository Includes
+# 📚 Courses Offered
 
-✅ Web Development Projects
-✅ HTML CSS JavaScript Templates
-✅ SEO Resources
-✅ AI Projects
-✅ Practice Projects
-✅ Notes & Study Materials
-✅ Mini & Major Projects
+* Python Programming
+* Data Science
+* AI & Machine Learning
+* Web Development
+* Power BI
+* Advanced Excel
+* Digital Marketing
+* SQL
+* Tally Prime
+
+---
+
+# 🌐 Official Websites
+
+<p align="center">
+
+<a href="https://www.kaishwebsolution.com">
+<img src="https://img.shields.io/badge/KAiSH-Web%20Solution-blue?style=for-the-badge&logo=google-chrome">
+</a>
+
+<a href="https://www.kaishclasses.com">
+<img src="https://img.shields.io/badge/KAiSH-Computer%20Institute-success?style=for-the-badge&logo=google-chrome">
+</a>
+
+</p>
 
 ---
 
@@ -98,46 +76,6 @@ We specialize in:
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=infokaishwebsolution-lucknow&show_icons=true&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infokaishwebsolution-lucknow&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Official Website
-
-<p align="center">
-
-<a href="https://www.kaishclasses.com">
-<img src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=google-chrome">
-</a>
-
-</p>
-
----
-
-# 📍 Location
-
-📌 Lucknow, Uttar Pradesh, India
-
----
-
-# 📲 Connect With Us
-
-<p align="center">
-
-<a href="https://github.com/infokaishwebsolution-lucknow">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram">
-</a>
-
 </p>
 
 ---
@@ -146,8 +84,6 @@ We specialize in:
 
 # 💙 Learn • Build • Innovate • Grow
 
-### 🚀 Powered by KAiSH Web Solution
-
-<img src="https://komarev.com/ghpvc/?username=infokaishwebsolution-lucknow&label=Profile+Views&color=blue&style=for-the-badge" />
+### 🚀 Powered by KAiSH
 
 </div>
