@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=250&amp;section=header&amp;text=KAiSH%20Web%20Solution%20%26%20KAiSH%20Computer%20Institute&amp;fontSize=34&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=250&amp;section=header&amp;text=KAiSH%20Web%20Solution%20and%20Computer%20Institute&amp;fontSize=34&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" width="100%" alt="KAiSH Web Solution and Computer Institute" />
 
 # 🚀 KAiSH Web Solution & KAiSH Computer Institute
 
